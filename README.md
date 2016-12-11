@@ -3,7 +3,7 @@
 ##说明
 
 + 将你们完成的项目放在以姓名全拼命名的文件夹里，命名如：`houxinyun`。注意：这里是公共repo，大家不要修改别人的文件夹或整个项目结构
-+ 每个项目一个文件夹，命名为:`houxinyun/stage1/code`
++ 每个项目一个文件夹，命名为:`houxinyun/Work_1`
 + 学习路线
  + [Level1 移动初窥传送门](/source/Stage1.md)
  + [Level2 小试牛刀传送门](/source/Stage2.md)
@@ -21,11 +21,11 @@
 + 在你自己**电脑**上创建一个文件夹,比如命名为`Android-Study`,然后进入该文件夹，在文件夹中打开命令行窗口，输入一下命令(注意把中文部分替换成你自己的昵称)把远程repo克隆到本地:
 
 
->  git clone 'git@github.com:你的github昵称/Android-Study.git'
+>  `git clone git@github.com:你的github昵称/Android-Study.git`
 
 + 现在在你本地应该有这样一个目录：`Android-Study/Android-Study`,进入该目录，你可以在这里面创建你的项目文件夹以及你的所有代码。再次提醒**不要修改别人的文件夹**<br/>
 + 当你在本地完成你的代码后(可以本地多次commit),将你的本地repo **push** 到远程repo,
-+ 再点** New pull request**,小组管理员确认你的请求版本无误后，将**Merge**你提交的版本。你提交的代码经过管理员审核才会显示在团队项目下。
++ 再点**New pull request**,小组管理员确认你的请求版本无误后，将**Merge**你提交的版本。你提交的代码经过管理员审核才会显示在团队项目下。
 ![Alt text](/imgs/lesson2.png)
 
 以后提交新的代码，只需要执行以上**第4步**即可。

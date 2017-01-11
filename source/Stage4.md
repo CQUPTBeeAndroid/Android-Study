@@ -22,3 +22,8 @@
 - 对于图片加载是否觉得麻烦了呢？那么现在开始使用Glide加载图片吧
 - 参考资料
  - [Gldie的详细使用] (https://mrfu.me/2016/02/27/Glide_Getting_Started/)
+
+## 任务5 Dagger 2
+- Dagger2 是一个依赖注入库，它能使你的项目实现解耦
+- 参考资料
+	- [Dagger2 依赖注入] (https://gold.xitu.io/entry/578cf2612e958a00543c45a4)

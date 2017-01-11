@@ -7,7 +7,8 @@
 	- [给初学者的Gradle知识](http://stormzhang.com/android/2016/07/02/gradle-for-android-beginners/)
 
 ## 任务2 android开发命名规范
-- [参考资料](http://blog.csdn.net/vipzjyno1/article/details/23542617)
+- 有一个好的命名规范是一个优秀的开发习惯，这样也能让其他人更好读懂你的代码
+	- [命名规范](http://blog.csdn.net/vipzjyno1/article/details/23542617)
 
 
 ## 任务2 学习Activity以及基本控件的使用

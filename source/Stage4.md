@@ -17,7 +17,7 @@
 - Butterknife是用来简化繁琐的控件绑定与注册监听过程的，有了它我们可以加快开发效率
 - 参考资料
    - [ButterKnife](http://www.cnblogs.com/zhaoyanjun/p/6016341.html)	 
-	
+
 ## 任务4 Glide的了解与使用
 - 对于图片加载是否觉得麻烦了呢？那么现在开始使用Glide加载图片吧
 - 参考资料

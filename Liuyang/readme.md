@@ -1,4 +1,4 @@
-  * ![](https://github.com/1048785685/Android-Study/blob/master/p.jpg)
+
   * 姓名：刘洋
   * 联系电话：18875142047
   * QQ：1048785685

@@ -43,30 +43,29 @@
   [10]: http://www.ui.cn/detail/20957.html
   [11]: http://www.jianshu.com/p/05289a4bc8b2
 
-## 任务2   markdown 
-+ 根据参考资料，学习Markdown的基本语法并熟练应用。
+## 任务2   Markdown
++ 根据参考资料，学习 Markdown 的基本语法并熟练应用。
 + 参考资料
   - [Markdown——入门指南](http://www.jianshu.com/p/1e402922ee32/)
   - [GitHub上README写法暨markdown语法解读](http://www.tuicool.com/articles/zIJrEjn)
 +  **作业**：按照[部署说明](https://github.com/CQUPTBeeAndroid/Android-Study)，在你们的专有文件夹（以你的姓名全拼命名）下，添加README.md文件，`参照Markdown语法`，首先在里面附上个人的照片或头像，然后填上你们的姓名、联系方式，以及诸如兴趣爱好等你愿意介绍的个人信息。最后发起一次**Pull Request**  
 
-## 任务3   搭建Android开发环境
-- [使用Android Studio搭建Android集成开发环境（图文教程）](http://www.cnblogs.com/smyhvae/p/4022844.html)
-- [AndroidStudio的配置](https://gold.xitu.io/entry/570b79f071cfe4005fa5cda5)
+## 任务3   搭建 Android 开发环境
+- [使用 Android Studio 搭建 Android 集成开发环境（图文教程）](http://www.cnblogs.com/smyhvae/p/4022844.html)
+- [Android Studio 的配置](https://gold.xitu.io/entry/570b79f071cfe4005fa5cda5)
 
-## 任务4 
-1. 学习完成Java基础部分内容，输出一篇到两篇文章到自己的博客上，并提交到github
-2. 学习Android的一些基础知识，如log、activity、intent、启动模式、生命周期，toast、 Menu等
-3. 根据自己学习的进度，输出一到两篇关于Android技术文章
-4. 文章重要的是**质量**不是数量，请**认真**总结，并将自己**思考**所得记录下来
 
-## 任务5   实在是忍不住还要学习，可以看以下内容
-#### Java部分
-- [Java基础视频](http://study.163.com/course/introduction.htm?courseId=201001#/courseDetail)
-- Java编程思想
+## Android 学习推荐书籍（可更新）
 
-#### Android部分
-- 第一行代码
+#### Android 基础部分
+
+- 第一行代码（主要参考书籍）
+- Android 疯狂讲义（可充当工具书）
+
+#### Android 进阶
+- Thinking in Java
+- Effective Java
+- 深入了解 Java 虚拟机
 - Android群英传
 - Android开发艺术探索
 - Android 源码设计模式解析与实战

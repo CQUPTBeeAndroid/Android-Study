@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Demo2</string>
+    <string name="appbar_scrolling_view_behavior">appbar_scrolling_view_behavior</string>
+</resources>

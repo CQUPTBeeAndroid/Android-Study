@@ -57,6 +57,7 @@ public class MainActivity extends AppCompatActivity implements SwipeRefreshLayou
 
             @Override
             public void onScrollStateChanged(final RecyclerView recyclerView, int newState) {
+
                 super.onScrollStateChanged(recyclerView, newState);
                 if (newState ==RecyclerView.SCROLL_STATE_IDLE && lastVisibleItem + 1==adapter.getItemCount()){
                     new Handler().postDelayed(new Runnable() {
@@ -70,10 +71,6 @@ public class MainActivity extends AppCompatActivity implements SwipeRefreshLayou
                         }
                     },1000);
                 }
-            }
-            public void onScrolled(RecyclerView recyclerView, int dx, int dy) {
-                super.onScrolled(recyclerView, dx, dy);
-                lastVisibleItem =linearLayoutManager.findLastVisibleItemPosition();
             }
 
         });

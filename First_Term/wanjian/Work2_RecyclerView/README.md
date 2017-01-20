@@ -8,12 +8,12 @@
 * **APP页面：**<br>
 
 **（1）** 刷新界面<br>
-![](/pictures/picture1)<br>
+![](/pictures/picture1.png)<br>
 
 
 **（2）** 点击item跳转后的界面<br>
 
-![](/pictures/picture2)<br>
+![](/pictures/picture2.png)<br>
 
 
 ##内容介绍

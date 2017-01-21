@@ -8,12 +8,12 @@
 * **APP页面：**<br>
 
 **（1）** 刷新界面<br>
-![](/pictures/picture1.png)<br>
+![](/First_Term/wanjian/Work2_RecyclerView//pictures/picture1.png)<br>
 
 
 **（2）** 点击item跳转后的界面<br>
 
-![](/pictures/picture2.png)<br>
+![](/First_Term/wanjian/Work2_RecyclerView/pictures/picture2.png)<br>
 
 
 ##内容介绍

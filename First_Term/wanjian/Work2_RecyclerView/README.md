@@ -4,7 +4,7 @@
 
 ##功能及页面介绍
 
-* **实现的功能：**CircleImageView的应用，RecyclerView的简单列表页、下拉刷新功能(上拉加载还全部完成，实现后更新)以及点击Intent页面跳转
+* **实现的功能：**CircleImageView的应用，RecyclerView的简单列表页、下拉刷新功能(上拉加载还未全部完成，实现后更新)以及点击Intent页面跳转
 * **APP页面：**<br>
 
 **（1）** 刷新界面<br>

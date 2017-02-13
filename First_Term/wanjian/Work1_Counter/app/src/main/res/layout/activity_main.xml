@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.wanjian.counter.MainActivity"
+    android:orientation="vertical"
+    >
+
+    //显示框的布局为Linearlayout，上下两个textView，上面一个暂时留着等待完善成科学计算器
+      下面一个textView输入数字
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/turn_area"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:gravity="right"
+            android:layout_weight="0.7"/>
+
+        <TextView
+            android:id="@+id/formula_area"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:textSize="35dp"
+            android:gravity="right"
+            android:layout_weight="1"/>
+    </LinearLayout>
+
+    //键盘区域的总布局为LinearLayout，左侧为tablelayout，右侧为LinearLayout
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="2">
+
+        <TableLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="3">
+
+            <TableRow android:layout_weight="1">
+                <Button
+                    android:id="@+id/btn_c"
+                    android:text="C"
+                    android:layout_weight="1"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"/>
+                <Button
+                    android:id="@+id/btn_del"
+                    android:text="DEL"
+                    android:layout_weight="1"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"/>
+                <Button
+                    android:id="@+id/btn_div"
+                    android:text="÷"
+                    android:layout_weight="1"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"/>
+            </TableRow>
+
+            <TableRow android:layout_weight="1">
+                <Button
+                    android:id="@+id/btn_7"
+                    android:text="7"
+                    android:layout_weight="1"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"/>
+                <Button
+                    android:id="@+id/btn_8"
+                    android:text="8"
+                    android:layout_weight="1"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"/>
+                <Button
+                    android:id="@+id/btn_9"
+                    android:text="9"
+                    android:layout_weight="1"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"/>
+            </TableRow>
+
+            <TableRow android:layout_weight="1">
+                <Button
+                    android:id="@+id/btn_4"
+                    android:text="4"
+                    android:layout_weight="1"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"/>
+                <Button
+                    android:id="@+id/btn_5"
+                    android:text="5"
+                    android:layout_weight="1"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"/>
+                <Button
+                    android:id="@+id/btn_6"
+                    android:text="6"
+                    android:layout_weight="1"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"/>
+            </TableRow>
+
+            <TableRow android:layout_weight="1">
+                <Button
+                    android:id="@+id/btn_1"
+                    android:text="1"
+                    android:layout_weight="1"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"/>
+                <Button
+                    android:id="@+id/btn_2"
+                    android:text="2"
+                    android:layout_weight="1"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"/>
+                <Button
+                    android:id="@+id/btn_3"
+                    android:text="3"
+                    android:layout_weight="1"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"/>
+            </TableRow>
+
+            <TableRow android:layout_weight="1">
+                <Button
+                    android:id="@+id/btn_0"
+                    android:text="0"
+                    android:layout_weight="2"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"/>
+                <Button
+                    android:id="@+id/btn_dot"
+                    android:text="."
+                    android:layout_weight="1"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"/>
+            </TableRow>
+
+        </TableLayout>
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:orientation="vertical">
+        <Button
+            android:id="@+id/btn_mul"
+            android:text="×"
+            android:layout_weight="1"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"/>
+        <Button
+            android:id="@+id/btn_sub"
+            android:text="-"
+            android:layout_weight="1"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"/>
+
+        <Button
+            android:id="@+id/btn_add"
+            android:text="+"
+            android:layout_weight="1"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"/>
+
+        <Button
+            android:id="@+id/btn_equ"
+            android:text="＝"
+            android:layout_weight="1"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"/>
+        </LinearLayout>
+
+</LinearLayout>
+</LinearLayout>

@@ -1,5 +1,5 @@
 ## 自我介绍
-<img src="http://b319.photo.store.qq.com/psb?/V10Hvxck4QCdZ7/9VlZEeZ7iUG5AETyudX15.BuTF2dwnvjkY*ZNGHZrqE!/b/dD8BAAAAAAAA&bo=OASgBQAAAAARB6k!&rf=viewer_4" width="20%" alt=""/> <br> 
+<img src="http://b319.photo.store.qq.com/psb?/V10Hvxck4QCdZ7/9VlZEeZ7iUG5AETyudX15.BuTF2dwnvjkY*ZNGHZrqE!/b/dD8BAAAAAAAA&bo=OASgBQAAAAARB6k!&rf=viewer_4" width="30%" alt=""/> <br>
 <strong>姓名：</strong>赵祖元<br>
 <strong>年龄：</strong>19岁<br>
 <strong> QQ：</strong>191868314<br>
